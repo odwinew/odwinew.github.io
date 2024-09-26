@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://odwinew.github.io/sitemap.odwinew.gz
+Sitemap: https://odwinew.github.io/app/sitemap.odwinew.gz
+Sitemap: https://odwinew.github.io/assets/sitemap.odwinew.gz
+Sitemap: https://odwinew.github.io/css/sitemap.odwinew.gz
+Sitemap: https://odwinew.github.io/data/sitemap.odwinew.gz
+Sitemap: https://odwinew.github.io/includes/sitemap.odwinew.gz
+Sitemap: https://odwinew.github.io/item/sitemap.odwinew.gz
+Sitemap: https://odwinew.github.io/src/sitemap.odwinew.gz
